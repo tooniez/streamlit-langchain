@@ -900,13 +900,13 @@ files = [
 
 [[package]]
 name = "hnswlib"
-version = "0.7.0"
+version = "0.8.0"
 description = "hnswlib"
 optional = false
 python-versions = "*"
 groups = ["main"]
 files = [
-    {file = "hnswlib-0.7.0.tar.gz", hash = "sha256:bc459668e7e44bb7454b256b90c98c5af750653919d9a91698dafcf416cf64c4"},
+    {file = "hnswlib-0.8.0.tar.gz", hash = "sha256:cb6d037eedebb34a7134e7dc78966441dfd04c9cf5ee93911be911ced951c44c"},
 ]
 
 [package.dependencies]
@@ -4097,4 +4097,4 @@ multidict = ">=4.0"
 [metadata]
 lock-version = "2.1"
 python-versions = ">=3.10,<4.0"
-content-hash = "4df3d46baa025e3290ebcf39f5b4f4375ac35b54524ac6ed42293839311b7aa5"
+content-hash = "95a2b60f5bb9406d97d3023590d1a21d153a64861dd63ee6a4287d6e2d1fea38"
